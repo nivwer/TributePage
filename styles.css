@@ -262,6 +262,9 @@ body {
     width: 500px;
     height: 500px;
 }
+.main .section-biography  {
+    min-height: 800px;
+}
 
 .main .img-div {
     height: calc(100vh - 100px);
